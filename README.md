@@ -1,9 +1,3 @@
-Branch test.
-
-My second try.
-
-My first Try.
-
 **斯坦福大学2014（吴恩达）机器学习教程中文笔记**
 
 课程地址：<https://www.coursera.org/course/ml>
